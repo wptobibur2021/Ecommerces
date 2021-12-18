@@ -1,0 +1,7 @@
+1. npm init -y
+2. npm i express mongoose dotenv nodemon
+3. Create a database from mongoDB
+4. Create a routers folder and declaration user and many more.
+5. npm i crypto-js (For Backend & Password)
+5. client side setup (react-router-dom)
+
